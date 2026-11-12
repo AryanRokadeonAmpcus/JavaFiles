@@ -1,0 +1,7 @@
+.idea/
+*/.idea/
+*.class
+*/out/
+*/target/
+*/build/
+.env

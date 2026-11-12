@@ -1,0 +1,17 @@
+//Q3) Change this block of code according to the given instruction and explain the output?
+//
+//public class Demo {
+//    public static void main(String[] args) {
+//        int a = 64;
+//        int b = 70;
+//        byte c = a+b;//typecast (a+b) to byte
+//        System.out.println(c){
+//        }
+//    }
+//    Note: You need to typecast (a+b) to byte
+
+
+
+--> So it is a narrowing casting type in which it converts larger data type into a smaller type size
+--> In this program int a & int b datatypes are larger and byte c is smaller data type so therefore
+--> Basically it is narrowing casting which is manual.
